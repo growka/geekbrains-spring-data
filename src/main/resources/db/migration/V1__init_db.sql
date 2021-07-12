@@ -32,4 +32,5 @@ INSERT INTO orders (user_id, product_id) VALUES
 (3, 5),
 (3, 6);
 
+
 COMMIT;
