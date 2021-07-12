@@ -10,4 +10,5 @@ public class GeekbrainsSpringDataApplication {
         SpringApplication.run(GeekbrainsSpringDataApplication.class, args);
     }
 
+
 }
